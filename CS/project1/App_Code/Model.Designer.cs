@@ -1,4 +1,4 @@
-﻿// T4 code generation is enabled for model 'C:\Users\Elena.Peskova\source\repos\project1\project1\App_Code\Model.edmx'. 
+﻿// T4 code generation is enabled for model 'C:\Users\Elena.Peskova\Documents\GitHub\avoid-duplicated-values-in-batch-edit-mode\CS\project1\App_Code\Model.edmx'. 
 // To enable legacy code generation, change the value of the 'Code Generation Strategy' designer
 // property to 'Legacy ObjectContext'. This property is available in the Properties Window when the model
 // is open in the designer.
