@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="DuplicateValues.aspx.cs" Inherits="DuplicateValues" %>
+<%@ Page Language="VB" AutoEventWireup="true" CodeFile="DuplicateValues.aspx.vb" Inherits="DuplicateValues" %>
 
 <%@ Register Assembly="DevExpress.Web.v22.1, Version=22.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Data.Linq" TagPrefix="dx" %>
 
