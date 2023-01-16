@@ -12,7 +12,7 @@ Follow the steps below to enable this functionality:
 
 1. Handle the grid's server-side [CustomJSProperties](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView.CustomJSProperties) event to get cell values from the server.
 
-2. Merge the cloned server-side values and the client-side changes to get unique values.
+2. Merge the cloned server-side values and client-side changes to get unique values.
 
    ```js
    function GetUniqueColumnValuesForValidation(grid, columnIndex, editingRowKey, isModifying) {
